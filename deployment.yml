@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: bnwokoye/blessing-amazonapp:3
+        image: bnwokoye/blessing-amazonapp:4
         ports:
         - containerPort: 3000
         
